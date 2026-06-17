@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Drpizza",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "chunksmp-DkxX.aternos.me",
+    "port": 17976,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "i like pizza",
+        "Subscribe to drdonut too!",
         "I like to play Minecraft!"
       ]
     },
